@@ -3,10 +3,10 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div style="display: flex; gap: 5px">
-<img src="./app/src/images/user-interface/1.jpg" alt="User Interface 1" width="400"/>
-<img src="./app/src/images/user-interface/2.jpg" alt="User Interface 2" width="400"/>
-<img src="./app/src/images/user-interface/3.jpg" alt="User Interface 3" width="400"/>
-<img src="./app/src/images/user-interface/4.jpg" alt="User Interface 4" width="400"/>
+<img src="./app/src/images/user-interface/1.jpg" alt="User Interface 1" width="380"/>
+<img src="./app/src/images/user-interface/2.jpg" alt="User Interface 2" width="380"/>
+<img src="./app/src/images/user-interface/3.jpg" alt="User Interface 3" width="380"/>
+<img src="./app/src/images/user-interface/4.jpg" alt="User Interface 4" width="380"/>
 <div>
 
 ## Welcome! 👋
