@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Tour Guide Johor</string>
+    <string name="main_title">Johor.</string>
+    <string name="category_top_attractions">Top Attractions</string>
+    <string name="category_retaurants">Restaurants</string>
+    <string name="category_shopping_malls">Shopping Malls</string>
+    <string name="category_events">Events</string>
+
+    <!-- Top Attractions names -->
+    <string name="legoland_malaysia">Legoland Malaysia</string>
+    <string name="pasar_karat_jb">Pasar Karat JB</string>
+    <string name="desaru_beach">Desaru Beach</string>
+    <string name="desaru_fruit_farm">Desaru Fruit Farm</string>
+    <string name="teluk_sengat_crocodile_farm">Teluk Sengat Crocodile Farm</string>
+    <string name="sultan_abu_bakar_state_mosque">Sultan Abu Bakar State Mosque</string>
+    <string name="tan_hiok_nee_heritage_street">Tan Hiok Nee Heritage Street</string>
+
+    <!-- Top Attractions descriptions -->
+    <string name="legoland_malaysia_description">Malaysia\'s 1st international theme park is located in Johor Bahru, just across the causeway from Singapore.</string>
+    <string name="pasar_karat_jb_description">Happening night bazaar offering stalls for clothing, trinkets, housewares and street food.</string>
+    <string name="desaru_beach_description">Desaru is a town in Pengerang, Kota Tinggi District. It is famous for its pristine beach beside the South China Sea.</string>
+    <string name="desaru_fruit_farm_description">The farm has been developed to contain more than 100 species of fruits trees and plants.</string>
+    <string name="teluk_sengat_crocodile_farm_description">There are more than 1,000 of crocodile in this farm, including a toothless 130-year-old croc.</string>
+    <string name="sultan_abu_bakar_state_mosque_description">The mosque sits on top of a prominent hill, overlooking the Straits of Johor.</string>
+    <string name="tan_hiok_nee_heritage_street_description">Jalan Tan Hiok Nee is a nice little heritage street to walk. Buy its banana cake which has a century of history.</string>
+
+    <!-- Restaurants names -->
+    <string name="restoran_kari_kambing_40_hari">Restoran Kari Kambing 40 Hari</string>
+    <string name="kacang_pool_haji">Kacang Pool Haji</string>
+    <string name="kopi_keju">Kopi Keju</string>
+    <string name="murtabak_majid_special_cheese">Murtabak Majid Special Cheese</string>
+    <string name="restoran_zz_sup_tulang">Restoran ZZ Sup Tulang</string>
+    <string name="pisang_goreng_mawar">Pisang Goreng Mawar</string>
+    <string name="onn_kitchen">Onn Kitchen</string>
+
+    <!-- Restaurants descriptions -->
+    <string name="restoran_kari_kambing_40_hari_description">Good place for briyani rice lover. The place is quite secluded. Mutton tastes superb, chicken sizable.</string>
+    <string name="kacang_pool_haji_description">The food is delicious. A must try food while you are in JB. You can\'t get any better taste Kacang Pool anywhere else.</string>
+    <string name="kopi_keju_description">A simulacrum of dining in Melbourne cafe scene, with falling lights embellishing the quaint space.</string>
+    <string name="murtabak_majid_special_cheese_description">The murtabak here has garnered the pride of putting together an irresistible Cheese Murtabak.</string>
+    <string name="restoran_zz_sup_tulang_description">The soup embodies a gamy and herby punch and use the straw to seep out all those meaty goodness.</string>
+    <string name="pisang_goreng_mawar_description">Frying up their deliciously crispy, soft and moist, signature pisang goreng comes with a side of spicy dipping sauce.</string>
+    <string name="onn_kitchen_description">Onn Kitchen has a quaint Malay warong ambience, with a large tree growing at the front of the shop.</string>
+
+    <!-- Shopping Malls names -->
+    <string name="johor_premium_outlets">Johor Premium Outlets</string>
+    <string name="paradigm_mall">Paradigm Mall</string>
+    <string name="ikea_tebrau">IKEA Tebrau</string>
+    <string name="angsana_mall">Angsana Mall</string>
+    <string name="ksl_city">KSL City"</string>
+    <string name="city_square_jb">City Square JB</string>
+    <string name="aeon_bukit_indah">Aeon Bukit Indah</string>
+
+    <!-- Shopping Malls descriptions -->
+    <string name="johor_premium_outlets_description">An outlet mall in Indahpura, Kulai District. It is the first luxury premium brand outlet in Southeast Asia.</string>
+    <string name="paradigm_mall_description">Contemporary shopping center with 6 floors of brand-name stores, plus restaurants and a movie theater.</string>
+    <string name="ikea_tebrau_description">Scandinavian chain selling ready-to-assemble furniture, plus housewares, in a warehouse-like space.</string>
+    <string name="angsana_mall_description">Formerly known as Plaza Angsana, having recognised and awarded as ‘The most happening place in JB’.</string>
+    <string name="ksl_city_description">Mall with diverse retail stores, beauty salons, massage services, a movie theater and casual eateries.</string>
+    <string name="city_square_jb_description">A shopping centre and office building in Wong Ah Fook Street, Johor Bahru, Johor, Malaysia.</string>
+    <string name="aeon_bukit_indah_description">The fast-expanding township of Bukit Indah, Johor. AEON\'s second largest mall in southern.</string>
+
+    <!-- Events names -->
+    <string name="galleria_battle_of_the_legend">Galleria Battle of The Legend</string>
+    <string name="wilderness_survival_camp">Wilderness Survival Camp</string>
+    <string name="spark_all_riders_gathering_arg">Spark All Riders Gathering (ARG)</string>
+    <string name="karnival_jualan_lawak_rakyat">Karnival Jualan Lawak Rakyat</string>
+    <string name="maqan_food_fest_2020">MaQan Food Fest 2020</string>
+    <string name="jauhar_tun_fatimah">Jauhar Tun Fatimah</string>
+    <string name="fesku_2020">FESKU 2020</string>
+    <string name="muslim_roadshow">Muslim Roadshow</string>
+    <string name="festival_layang_sedunia">Festival Layang-Layang Sedunia</string>
+
+    <!-- Events descriptions -->
+    <string name="galleria_battle_of_the_legend_description">20 - 21 March 2020, (+607-224 7668)\nAtrium 2, Ground Floor, Galleria@Kotaraya</string>
+    <string name="wilderness_survival_camp_description">14 - 15 March 2020, (+6017-470 1159)\nSunway Citrine Hub, Iskandar Puteri, Johor</string>
+    <string name="spark_all_riders_gathering_arg_description">7 - 8 March 2020, (+6019-730 2928)\nPerkarangan Stadium Pebadanan Pasir gudang Johor</string>
+    <string name="karnival_jualan_lawak_rakyat_description">19 - 23 February 2020, (+6014-309 6944)\nUTC Pasir Gudang, Johor</string>
+    <string name="maqan_food_fest_2020_description">7 - 9 February 2020, (+6013-405 2008)\nAngsana Johor Bahru Mall</string>
+    <string name="jauhar_tun_fatimah_description">13 March 2020, (+6014-579 3462)\nPermaisuri Zarith Sofiah Opera House, R&amp;F Mall Johor</string>
+    <string name="fesku_2020_description">13 - 21 April 2020, (+6016-945 4601)\nDataran UTM Skudai, Johor Bahru</string>
+    <string name="muslim_roadshow_description">18 January 2020, (+6018-165 7496)\nAnjung Warisan Dan Kesenian Islam, Nusajaya</string>
+    <string name="festival_layang_sedunia_description">26 February 2020 - 1 March 2020, (+6015-356 8546)\nBukit Layang-Layang, Pasir Gudang.</string>
+</resources>
